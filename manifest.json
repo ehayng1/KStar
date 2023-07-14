@@ -1,0 +1,26 @@
+{
+  "short_name": "My K Star",
+  "name": "Learn Korean from Songs",
+  "host_permissions": ["https://krdict.korean.go.kr/"],
+  "icons": [
+    {
+      "src": "book.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "book.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "book.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
